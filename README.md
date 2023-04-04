@@ -5,26 +5,32 @@ This repository will explore different model architectures for image segmentatio
 I will divide this repository into two sections with multiple experiments, each exploring a different model architecture:
 
 Section 1 (Image Classification):
-    - Experiment 1: CNN
-    - Experiment 2: Resnet
-    - Experiment 5: Vision Transformer
-    - Experiment 6: Inception ViT
-    - Experiment 7: QKV ViT
+ - Experiment 1: CNN
+ - Experiment 2: Resnet
+ - Experiment 5: Vision Transformer
+ - Experiment 6: Inception ViT
+ - Experiment 7: QKV ViT
 
 Section 2 (Image Segmentation):
-    - Experiment 1: CNN
-    - Experiment 2: Resnet
-    - Experiment 3: Unet
-    - Experiment 4: Unet w/ Attention
-    - Experiment 5: Vision Transformer
-    - Experiment 6: Inception ViT
-    - Experiment 7: QKV ViT
+ - Experiment 1: CNN
+ - Experiment 2: Resnet
+ - Experiment 3: Unet
+ - Experiment 4: Unet w/ Attention
+ - Experiment 5: Vision Transformer
+ - Experiment 6: Inception ViT
+ - Experiment 7: QKV ViT
 
 # Section 1 - Image Classification
+
+## Hyperparameters
 
 ## Experiment 1 - CNN
 
 Currently a work in progress.
+
+### Architecture
+
+### Results
 
 ## TODO: References
  - https://www.kaggle.com/code/dhananjay3/image-segmentation-from-scratch-in-pytorch
